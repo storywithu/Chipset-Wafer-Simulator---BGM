@@ -17,3 +17,4 @@ Wafer monitoring MFC PJT/ Code reliability
 ---
 ## Lessons Learned
 -  Learned to implement reliable and maintainable MFC GUI for wafer monitoring
+-  Learned robust MFC monitoring and maintainable C++ design
